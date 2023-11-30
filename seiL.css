@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+body {
+    background:linear-gradient(127deg, #330161, #ed25ffda);
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+header {
+	padding: 20px 0;
+}
+
+.logo {
+    position: relative;
+	width: 200px;
+	margin: 0 auto;
+}
+
+main {
+    width: 200px;
+	margin: 0 auto;
+}
+
+form {
+	margin: 40px 0;
+    width: 200px;
+}
+
+input {
+    border-radius: 99px;
+    padding: 10px 25px;
+    width: 80%;
+}
+
+form label {
+	display:block;
+	font-size: 20px;
+	margin: 20px 0 20px;
+  
+}
+
+.contas {
+   float: left;
+   width: 50%;
+
+}
+
+.imagem_1{
+    width: 90px;
+    position: relative;
+
+}
+
+.imagem_2{
+    width: 60px;
+    padding: 15px;
+}
+
+.login {
+    border: 2px solid  black;
+    border-radius: 99px;
+    max-width: 240px;
+    margin: 5px auto 0px auto;
+    background: linear-gradient(127deg, #ffe53bd8, #ff2525da);;
+}
+
+div p a {
+    text-decoration: none;
+    color: black;
+}
+
+div p {
+    text-align: center;
+    font-size: 25px;
+}
+
+.receber {
+    font-size: 23px;
+    text-align: center;
+}
+
+#enviar {
+    max-width: 20px;
+    font-size: 15px;
+}
+
+#eae {
+    border: 2px solid black;
+    border-radius: 99px;
+    margin: 20px auto 0px 20px;
+    max-width: 240px;
+    background: linear-gradient(127deg, #ffe53bd8, #ff2525da);
+    
+}
+
+#caberaio_3 {
+    position: absolute;
+    left: 335px;
+    top: 155px;
+    border-radius: 52px;
+    border: 5px solid #474a51;
+    width: 655px;
+    height: 468px;
+    background:linear-gradient(333deg, #474a51, #393b41 ) ;
+    color: white;
+}
+
+
+
+#caberaio_4 {
+    text-align: center;
+    border-radius: 52px;
+}
+
+#caberaio_5 {
+    position: absolute;
+    left: 122px;
+    margin-top: 25px;
+    width: 115px;
+    
+}
+
+#caberaio_6 {
+    position: absolute;
+    left: 742px;
+    margin-top: 25px;
+    top: 482px;
+}
+
+#caberaio_7 {
+    position: absolute;
+    left: 490px;
+    margin-top: 25px;
+    top: 494px;
+}
+
+
+#imagens_1 {
+    width: 80px;
+
+}
+
+
+#caberaio_8 {
+    position: absolute;
+    left: 460px;
+    top: 470px;
+}
+
+#encima {
+    text-align: center;
+    margin: 0;
+}
+
+#imagens_P {
+    text-align: center;
+    margin-bottom: 75px;
+}

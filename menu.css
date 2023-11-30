@@ -1,0 +1,107 @@
+body {
+    background:linear-gradient(127deg, #330161, #ed25ffda);
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+
+#conteriner {
+    margin: 56px auto 0px auto;
+}
+
+#musica {
+    text-align: center;
+    border: 5px solid #474a51;
+    border-radius: 56px;
+    background: #474a51;
+}
+
+div a img {
+    border-radius: 56px;
+    width: 170px;
+    padding: 7px;
+}
+
+#musica_1 {
+    border-radius: 56px;
+    width: 170px;
+    height: 175px;
+    margin-top: 3px;
+}
+
+#musica_2 {
+    border-radius: 56px;
+    width: 170px;
+}
+
+#texto {
+    color: white;
+    font-size: 54px;
+    padding-top: 10px;
+    
+}
+
+#texto_1 {
+    color: white;
+    font-size: 44px;
+    padding-top: 7px;
+
+}
+
+.borda_C {
+    background: #474a51;
+
+    border-radius: 15px;
+}
+
+#cabecario {
+
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.pesquisa {
+        position: absolute;
+        top: 96px;
+        right: 620px;
+}
+
+header div input {
+    position: absolute;
+    top: 70px;
+    right: 280px;
+    width: 450px;
+    padding: 15px;
+    border-radius: 32px;
+    font-size: 29px;
+    background: #474a51;
+    border-color: red;
+}
+
+
+.barra {
+    position: absolute;
+    top: 50px;
+    right: 260px;
+}
+
+.barra_1 {
+    width: 106px
+}
+
+.microfone {
+    position: absolute;
+    top: 76px;
+    right: 500px;
+}
+
+#microfone_1 {
+    width: 54px;
+}
+
+#texto_2 {
+    color: white;
+    font-size: 44px;
+    margin-top: 45px;
+}
